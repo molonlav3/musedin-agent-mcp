@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "musedin": { "type": "http", "url": "https://musedin.com/mcp" }
+  }
+}
